@@ -1,6 +1,6 @@
-# Hello World in Every Language
+# Hello World in Every Language :globe_with_meridians:
 
-Welcome to the "Hello World in Every Language" repository! This project aims to be a comprehensive collection of "Hello, World!" programs implemented in as many programming languages as possible. Whether you're a seasoned programmer or just starting your coding journey, this repository is a fun and educational resource to explore the diverse world of programming languages.
+Welcome to the "Hello World in Every Language :globe_with_meridians:" repository! This project aims to be a comprehensive collection of "Hello, World!" programs implemented in as many programming languages as possible. Whether you're a seasoned programmer or just starting your coding journey, this repository is a fun and educational resource to explore the diverse world of programming languages.
 
 ## What's Inside
 
@@ -31,3 +31,11 @@ Please ensure that your code adheres to the best practices of the respective pro
 If you're new to GitHub, programming, or just want to explore the different "Hello, World!" programs, check out our Wiki section for guides, resources, and tips.
 
 Let's celebrate the diversity of programming languages and learn from each other. Happy coding!
+
+## :scroll: Contributed by :
+
+Arnob Dey
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnob016)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arnob_016)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnob016/)
